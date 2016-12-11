@@ -1,0 +1,6 @@
+﻿extensions: designer.cs generated.cs
+extensions: .cs .cpp .h
+/**
+ *  Summary:
+ *  Author: Brian Cullen (brianshan@gmail.com)
+ */
